@@ -1,4 +1,5 @@
 TOPICS AND METHODOLOGIES COVERED (WITH CODES)
+
 **Activation for hidden layers**
 
 **Types of Activation function**
